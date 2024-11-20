@@ -1,5 +1,3 @@
-"use client";
-
 import { Metadata } from "next";
 import Link from "next/link";
 import React from "react";
@@ -233,15 +231,15 @@ export default function page() {
         <p>
           You may not share or make the Licensed Application available to third
           parties (unless to the degree allowed by the Usage Rules, and with
-          Yunus Korkmaz&apos;s prior written consent), sell, rent, lend, lease or
-          otherwise redistribute the Licensed Application.
+          Yunus Korkmaz&apos;s prior written consent), sell, rent, lend, lease
+          or otherwise redistribute the Licensed Application.
         </p>
         <p>
           You may not reverse engineer, translate, disassemble, integrate,
           decompile, remove, modify, combine, create derivative works or updates
           of, adapt, or attempt to derive the source code of the Licensed
-          Application, or any part thereof (except with Yunus Korkmaz&apos;s prior
-          written consent).
+          Application, or any part thereof (except with Yunus Korkmaz&apos;s
+          prior written consent).
         </p>
         <p>
           You may not copy (excluding when expressly authorized by this license
@@ -310,8 +308,9 @@ export default function page() {
         <p>
           You acknowledge that Licensor will be able to access and adjust Your
           downloaded Licensed Application content and Your personal information,
-          and that Licensor&apos;s use of such material and information is subject to
-          Your legal agreements with Licensor and Licensor&apos;s privacy policy:{" "}
+          and that Licensor&apos;s use of such material and information is
+          subject to Your legal agreements with Licensor and Licensor&apos;s
+          privacy policy:{" "}
           <Link
             className="text-blue-500 underline"
             href="https://support.apidon.com/privacy-policy"
@@ -473,9 +472,9 @@ export default function page() {
       <div id="liability" className="flex flex-col gap-5">
         <h1 className="text-xl font-bold">LIABILITY</h1>
         <p>
-          Licensor&apos;s responsibility in the case of violation of obligations and
-          tort shall be limited to intent and gross negligence. Only in case of
-          a breach of essential contractual duties (cardinal obligations),
+          Licensor&apos;s responsibility in the case of violation of obligations
+          and tort shall be limited to intent and gross negligence. Only in case
+          of a breach of essential contractual duties (cardinal obligations),
           Licensor shall also be liable in case of slight negligence. In any
           case, liability shall be limited to the foreseeable, contractually
           typical damages. The limitation mentioned above does not apply to
@@ -622,12 +621,12 @@ export default function page() {
         </p>
         <p>
           In Accordance with Section 9 of the "Instructions for Minimum Terms of
-          Developer&apos;s End-User License Agreement," Apple&apos;s subsidiaries shall be
-          third-party beneficiaries of this End User License Agreement and —
-          upon Your acceptance of the terms and conditions of this License
-          Agreement, Apple will have the right (and will be deemed to have
-          accepted the right) to enforce this End User License Agreement against
-          You as a third-party beneficiary thereof.
+          Developer&apos;s End-User License Agreement," Apple&apos;s
+          subsidiaries shall be third-party beneficiaries of this End User
+          License Agreement and — upon Your acceptance of the terms and
+          conditions of this License Agreement, Apple will have the right (and
+          will be deemed to have accepted the right) to enforce this End User
+          License Agreement against You as a third-party beneficiary thereof.
         </p>
       </div>
       <div id="applicable-law" className="flex flex-col gap-5">
