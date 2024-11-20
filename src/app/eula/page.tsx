@@ -78,7 +78,7 @@ export default function page() {
           to You for use only under the terms of this License Agreement. The
           Licensor reserves all rights not expressly granted to You. Apidon is
           to be used on devices that operate with Apple&apos;s operating systems
-          (&quot;iO&quot;" and &quot;Mac OS&quot;).
+          (&quot;iO&quot; and &quot;Mac OS&quot;).
         </p>
       </div>
 
