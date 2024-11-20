@@ -42,16 +42,16 @@ export default function page() {
       <div id="first-section" className="flex flex-col gap-5">
         <p>
           Apidon is licensed to You (End-User) by Yunus Korkmaz, located and
-          registered at Istanbul, Turkey ("Licensor"), for use only under the
+          registered at Istanbul, Turkey (&quot;Licensor&quot;), for use only under the
           terms of this License Agreement.
         </p>
         <p>
           By downloading the Licensed Application from Apple&apos;s software
-          distribution platform ("App Store"), and any update thereto (as
+          distribution platform (&quot;App Store&quot;), and any update thereto (as
           permitted by this License Agreement), You indicate that You agree to
           be bound by all of the terms and conditions of this License Agreement,
           and that You accept this License Agreement. App Store is referred to
-          in this License Agreement as "Services."
+          in this License Agreement as &quot;Services.&quot;
         </p>
         <p>
           The parties of this License Agreement acknowledge that the Services
@@ -68,7 +68,7 @@ export default function page() {
             href=" https://www.apple.com/legal/internet-services/itunes/us/terms.html"
             className=" underline text-blue-500 cursor-pointer"
           >
-            Apple Media Services Terms and Conditions ("Usage Rules")
+            Apple Media Services Terms and Conditions (&quot;Usage Rules&quot;)
           </Link>
           . Yunus Korkmaz acknowledges that it had the opportunity to review the
           Usage Rules and this License Agreement is not conflicting with them.
@@ -78,7 +78,7 @@ export default function page() {
           to You for use only under the terms of this License Agreement. The
           Licensor reserves all rights not expressly granted to You. Apidon is
           to be used on devices that operate with Apple&apos;s operating systems
-          ("iOS" and "Mac OS").
+          (&quot;iO&quot;" and &quot;Mac OS&quot;).
         </p>
       </div>
 
@@ -196,10 +196,10 @@ export default function page() {
       <div id="application" className="flex flex-col gap-5">
         <h1 className="text-xl font-bold">THE APPLICATION</h1>
         <p>
-          Apidon ("Licensed Application") is a piece of software created to help
+          Apidon (&quot;Licensed Application&quot;) is a piece of software created to help
           people demonstrate and showcase their attendance or achievements with
           digital collectibles. — and customized for iOS mobile devices
-          ("Devices"). It is used to help people demonstrate and showcase their
+          (&quot;Devices&quot;). It is used to help people demonstrate and showcase their
           attendance or achievements with digital collectibles..
         </p>
         <p>
@@ -339,7 +339,7 @@ export default function page() {
           broadcast content and materials to us or in the Licensed Application,
           including but not limited to text, writings, video, audio,
           photographs, graphics, comments, suggestions, or personal information
-          or other material (collectively, "Contributions"). Contributions may
+          or other material (collectively, &quot;Contributions&quot;). Contributions may
           be viewable by other users of the Licensed Application and through
           third-party websites or applications. As such, any Contributions you
           transmit may be treated as non-confidential and non-proprietary. When
@@ -564,7 +564,7 @@ export default function page() {
         <p>
           You represent and warrant that You are not located in a country that
           is subject to a US Government embargo, or that has been designated by
-          the US Government as a "terrorist supporting" country; and that You
+          the US Government as a &quot;terrorist supporting&quot; country; and that You
           are not listed on any US Government list of prohibited or restricted
           parties.
         </p>
@@ -620,8 +620,8 @@ export default function page() {
           Application.
         </p>
         <p>
-          In Accordance with Section 9 of the "Instructions for Minimum Terms of
-          Developer&apos;s End-User License Agreement," Apple&apos;s
+          In Accordance with Section 9 of the &quot;Instructions for Minimum Terms of
+          Developer&apos;s End-User License Agreement,&quot; Apple&apos;s
           subsidiaries shall be third-party beneficiaries of this End User
           License Agreement and — upon Your acceptance of the terms and
           conditions of this License Agreement, Apple will have the right (and
